@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/FunWebsite/static/css/main.705a44d8.css",
+    "main.js": "/FunWebsite/static/js/main.03b88c66.js",
+    "static/media/profile.jpg": "/FunWebsite/static/media/profile.f724206a2255736bff3e.jpg",
+    "index.html": "/FunWebsite/index.html",
+    "main.705a44d8.css.map": "/FunWebsite/static/css/main.705a44d8.css.map",
+    "main.03b88c66.js.map": "/FunWebsite/static/js/main.03b88c66.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.705a44d8.css",
+    "static/js/main.03b88c66.js"
+  ]
+}
